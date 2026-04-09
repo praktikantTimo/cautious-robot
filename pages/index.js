@@ -18,7 +18,7 @@ export default function Home() {
 
        <h1>Congratulations!</h1>
   <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Description of GIF" />
-  <p>Congrats, you've successfully set up an automated workflow with GitHub Actions to deploy your Next.js application to GitHub Pages! 🥳</p>
+  <p>Congrats you you you... :-) you've successfully set up an automated workflow with GitHub Actions to deploy your Next.js application to GitHub Pages! 🥳</p>
 
       </main>
     </>
