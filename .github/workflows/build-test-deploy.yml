@@ -56,7 +56,7 @@ jobs:
       - name: configure github pages
         uses: actions/configure-pages@v4
         with:
-          static_site_generater: next
+          static_site_generator: next
       - run: npm install
       - run: npm run build
       - name: upload artifacts
