@@ -39,7 +39,7 @@ jobs:
       id-token: write
 
     environment: 
-      name: production
+      name: Production
       url: ${{ steps.deployment.outputs.page.url }}
 
     runs-on: ubuntu-latest
